@@ -2,25 +2,25 @@
 
 Inspiracja Tryb Surf z Counter Strike 1.6
 
-Paczka ze skryptami jest od tego pana. : https://www.youtube.com/c/DaniDev
-( jest tam dużo rzeczy ktorych nie uzywam ) 
+Paczka ze skryptami jest od tego pana. : https://www.youtube.com/c/DaniDev </br>
+( jest tam dużo rzeczy ktorych nie uzywam )  </br>
 
-WSAD
-Jump - Spacja 
-jest Double Jump 
-Ctrl - Boost 
+WSAD </br>
+Jump - Spacja  </br>
+jest Double Jump  </br>
+Ctrl - Boost  </br>
 
-Przyklejimy sie do sciany uzywajac A/D podczas biegu w zależności od położenia platformy.
-Skok podczas bycia przyklejonym jak go dobrze uzyjemy potrafi nas przyspieszyc. 
+Przyklejimy sie do sciany uzywajac A/D podczas biegu w zależności od położenia platformy. </br>
+Skok podczas bycia przyklejonym jak go dobrze uzyjemy potrafi nas przyspieszyc.  </br>
 
 
-Pomaranczowy - Scianka do biegania 
-Zielony - Drabinka do wspinania
-Niebieski - Ground
+Pomaranczowy - Scianka do biegania  </br>
+Zielony - Drabinka do wspinania </br>
+Niebieski - Ground </br>
 
 Czerwony Jump Pad - wybija do gory 
-Zółty Jump Pad - wybija w przód ( przy odpowiednim timingu z nacisnieciem spacji wybija nas dalej ) 
-Zółty Ring - Wybija w przod po wleceniu w niego 
+Zółty Jump Pad - wybija w przód ( przy odpowiednim timingu z nacisnieciem spacji wybija nas dalej )  </br>
+Zółty Ring - Wybija w przod po wleceniu w niego  </br>
 
 
-Jesli chodzi o skrót dla spotrzegawczych . ( Jesli odbijemy sie od pierwszej drabinki w tyl, zamiast w przod. pominiemy jeden Stage mapki .mozna to zauwazyc jak poaptrzymy sie wczesniej w góre)
+Jesli chodzi o skrót dla spotrzegawczych . ( Jesli odbijemy sie od pierwszej drabinki w tyl, zamiast w przod. pominiemy jeden Stage mapki .mozna to zauwazyc jak poaptrzymy sie wczesniej w góre) </br>
