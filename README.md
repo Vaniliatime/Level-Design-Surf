@@ -23,4 +23,4 @@ Zółty Jump Pad - wybija w przód ( przy odpowiednim timingu z nacisnieciem spa
 Zółty Ring - Wybija w przod po wleceniu w niego  </br>
 
 
-Jesli chodzi o skrót dla spotrzegawczych . ( Jesli odbijemy sie od pierwszej drabinki w tyl, zamiast w przod. pominiemy jeden Stage mapki .mozna to zauwazyc jak poaptrzymy sie wczesniej w góre) </br>
+Jesli chodzi o skrót dla spotrzegawczych . ( Jesli odbijemy sie od pierwszej drabinki w tyl, zamiast w przod. pominiemy jeden Stage mapki ,można to zauwazyc jak poaptrzymy sie wczesniej w góre) </br>
