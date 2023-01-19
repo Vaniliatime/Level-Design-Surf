@@ -3,17 +3,17 @@
 Inspiracja Tryb Surf z Counter Strike 1.6
 Paczka ze skryptami jest od tego pana. : https://www.youtube.com/c/DaniDev </br>
 
-#Screenshots
+# Screenshots
 ### <b>Map</b></br>
 ![](Screens/level.png)
 ### <b>Stage 1 </b></br>
-![](Screens/Stage 1.png)
+![](Screens/Stage1.png)
 ### <b>Stage 2</b></br>
-![](Screens/Stage 2.png)
+![](Screens/Stage2.png)
 ### <b>Stage 3 </b></br>
-![](Screens/Stage 3.png)
+![](Screens/Stage3.png)
 ### <b>Stage 4</b></br>
-![](Screens/Stage 4.png)
+![](Screens/Stage4.png)
 
 ## Sterowanie
 WSAD </br>
