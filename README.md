@@ -11,9 +11,9 @@ Paczka ze skryptami jest od tego pana. : https://www.youtube.com/c/DaniDev </br>
 ### <b>Stage 2</b></br>
 ![](Screens/Stage2.png)
 ### <b>Stage 3 </b></br>
-![](Screens/Stage3.png)
-### <b>Stage 4</b></br>
 ![](Screens/Stage4.png)
+### <b>Stage 4</b></br>
+![](Screens/Stage3.png)
 
 ## Sterowanie
 WSAD </br>
