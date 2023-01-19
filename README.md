@@ -5,7 +5,7 @@ Paczka ze skryptami jest od tego pana. : https://www.youtube.com/c/DaniDev </br>
 
 # Screenshots
 ### <b>Map</b></br>
-![](Screens/level.png)
+![](Screens/Level.png)
 ### <b>Stage 1 </b></br>
 ![](Screens/Stage1.png)
 ### <b>Stage 2</b></br>
